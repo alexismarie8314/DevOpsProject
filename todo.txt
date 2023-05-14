@@ -1,3 +1,0 @@
-#TODO: research User
-
-!info: superadmin: postgres , pw:votre mot de passe 
