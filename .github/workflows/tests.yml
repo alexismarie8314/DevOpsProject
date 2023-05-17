@@ -26,4 +26,4 @@ jobs:
       working-directory: ./userApi
     - name: Run tests
       run: npm test
-      working-directory: ./userApi/test
+      working-directory: ./userApi/test/
